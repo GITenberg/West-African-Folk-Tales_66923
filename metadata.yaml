@@ -1,0 +1,22 @@
+_repo: West-African-Folk-Tales_66923
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Sinclair, Cecilia
+    gutenberg_agent_id: '54030'
+    url: http://www.gutenberg.org/2009/agents/54030
+  - agent_name: Barker, William Henry
+    gutenberg_agent_id: '54029'
+    url: http://www.gutenberg.org/2009/agents/54029
+description: ''
+gutenberg_issued: '2021-12-11'
+identifiers:
+  gutenberg: '66923'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: West African Folk-Tales
+url: http://www.gutenberg.org/ebooks/66923
