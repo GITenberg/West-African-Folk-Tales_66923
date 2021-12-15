@@ -1,5 +1,8 @@
 _repo: West-African-Folk-Tales_66923
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 66923-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Sinclair, Cecilia
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '54029'
     url: http://www.gutenberg.org/2009/agents/54029
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66923#West-African-Folk-Tales
 gutenberg_issued: '2021-12-11'
 identifiers:
   gutenberg: '66923'
